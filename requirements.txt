@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+Flask
+pillow
+catboost
+dvc
+xgboost
+seaborn
